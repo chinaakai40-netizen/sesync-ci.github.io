@@ -70,4 +70,9 @@ in the public domain [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 The "Filter by" input uses [Isotope](https://isotope.metafizzy.co/) released
 under GPLv3 and [Selectize](https://selectize.github.io/selectize.js/) released
+under 1.0/).
+
+The "Filter by" input uses [Isotope](https://isotope.metafizzy.co/) released
+under GPLv3 and [Selectize](https://selectize.github.io/selectize.js/) released
 under the Apache License 2.0.
+ Apache License 2.0.
